@@ -1,0 +1,11 @@
+.DS_Store
+
+coverageEnv
+
+build/
+flat/
+mochawesome-report/
+node_modules/
+tmp/
+
+.vscode/

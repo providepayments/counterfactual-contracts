@@ -1,0 +1,25 @@
+{
+  "name": "counterfactual-contracts",
+  "version": "0.0.1",
+  "description": "suite of counterfactual contracts; see https://github.com/providenetwork/monorepo",
+  "repository": "git@github.com:providepayments/counterfactual-contracts.git",
+  "scripts": {},
+  "author": "Kyle Thomas <kyle@provide.services>",
+  "copyright": "2019 Provide Technologies Inc.",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "openzeppelin-solidity": "^2.1.1"
+  },
+  "devDependencies": {
+    "bignumber.js": "^8.0.2",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.0.0",
+    "solc": "^0.5.8",
+    "truffle": "^5.0.1",
+    "truffle-flattener": "^1.2.10"
+  }
+}
