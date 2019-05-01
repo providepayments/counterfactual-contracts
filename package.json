@@ -9,7 +9,8 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "openzeppelin-solidity": "^2.1.1"
+    "@counterfactual/contracts": "^0.1.0",
+    "openzeppelin-solidity": "^2.2.0"
   },
   "devDependencies": {
     "bignumber.js": "^8.0.2",
